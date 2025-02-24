@@ -1,4 +1,16 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Brandon Brandhuber
+* Created on: February 19th, 2025
+* This file contains the CSS for more_mdl.html
 */
+
+body {
+    background-color: rgb(228, 202, 117);
+}
+
+h3 {
+
+    background-color: rgb(100, 23, 189);
+    color: hsl(49, 70%, 52%);
+    padding: 40px;
+    text-align: center;
+}
